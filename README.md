@@ -28,38 +28,38 @@ Before running the tests make sure you are serving the app via `ng serve`.
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Quick start
-1]Dowanload the appliation
+1]Dowanload the application
 2]Open CMD
 3] Add project path
 4] Fire command Run `ng serve`
 
 ## Employee List
-  1]When project load you can see Employee List page in that see list of Employee
+  1]When project load User can see Employee List page in that page see list of Employee
   # Search user
-   1] Using serarch user can search Employee
+   1] Using search user can search Employee
   # Edit Employee
-   1] Click on edit its navigate to edit empoyee page
+   1] Click on edit its navigate to edit employee page
    2] Use want to change data use can change it.
   # Delete Employee
-   1] User want to delete Employee click on delete button
+   1] User want to delete Employee click on the delete button
    2] Dialog will open 
-   3] User click No button Employee will not delete if user click on Yes button employee wiil delete
+   3] User click No button Employee will not delete if user click on Yes button employee will delete
  # Create Employee
    User want to create Employee
-   1] Click on Craate tab
-   2] All fileds are mandatory
+   1] Click on the Craate tab
+   2] All fields are mandatory
    # Name validation
-     1] User can not add double space, digit,special charactor in name input
+     1] User can not add double space, digit, special characters in the name input
    # Email validation
-     1] User should add proper mailid
+     1] User should add proper mail id
    # Phone validation
-     1] USer can not add charactor and special charactor and minlenth is 10
+     1] USer cannot add character and special characters and min length is 10
    # Gender validation 
-    1] User should select gender 
+    1] User should select the gender 
    # Staus
-    1] user not select checkbox then status is Inactive if user check checkbox status is Active 
+    1] user not select checkbox then the status is Inactive if user check checkbox status is Active 
     
-   # When All Filed is filled by user then Save button is enabled
+   # When All Filed is filled by the user then the Save button is enabled
    
    
      
