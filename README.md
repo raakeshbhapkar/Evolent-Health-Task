@@ -59,7 +59,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
    # Staus
     1] user not select checkbox then status is Inactive if user check checkbox status is Active 
     
-    When All Filed is fillde by user then Save button is enabled
+   # When All Filed is filled by user then Save button is enabled
    
    
      
