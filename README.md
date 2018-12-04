@@ -46,7 +46,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
    3] User click No button Employee will not delete if user click on Yes button employee will delete
  # Create Employee
    User want to create Employee
-   1] Click on the Craate tab
+   1] Click on the Create tab
    2] All fields are mandatory
    # Name validation
      1] User can not add double space, digit, special characters in the name input
