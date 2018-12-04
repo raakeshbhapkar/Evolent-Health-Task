@@ -56,7 +56,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
      1] USer cannot add character and special characters and min length is 10
    # Gender validation 
     1] User should select the gender 
-   # Staus
+   # Status
     1] user not select checkbox then the status is Inactive if user check checkbox status is Active 
     
    # When All Fileds are filled by the user then the Save button is enabled
